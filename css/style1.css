@@ -605,3 +605,120 @@ a {
   .block-47 .block-47-quote .block-47-quote-author {
     font-size: 14px;
     color: #666666; }
+
+
+
+    .animatedGreetings {
+      text-indent: 6px;
+      color:rgb(40, 227, 7);
+    }
+    
+    .animatedGreetings:before {
+      content: "Hello";
+      animation: topToBottom 100s infinite 0s;
+    }
+    
+    @keyframes topToBottom {
+      0% {content: "Hello"; }
+      1% {content: "नमस्ते";}
+      2% {content: "ཀུ་ཟང་པོ་ལགས་";}
+      3% {content: "नमस्कार";}
+      4% {content: "བཀྲ་ཤིས་བདེ་ལེགས།";}
+      5%{ content:"Goeie dag";}
+      6%{ content:"Tungjatjeta";}
+      7%{ content:"Selam";}
+      8%{ content:"Salam aleikoum";}
+      9%{ content:"Barev";}
+      10%{ content:"Salam";}
+      11%{ content:"Kaixo";}
+      12%{ content:"Добры дзень";}
+      13%{ content:"নমস্কার";}
+      14%{ content:"Zdravo";}
+      15%{ content:"Здравейте";}
+      16%{ content:"မင်္ဂလာပါ";}
+      17%{ content:"Hola";}
+      18%{ content:"Kumusta";}
+      19%{ content:"你好";}
+      20%{ content:"Dobar dan";}
+      21%{ content:"Dobrý den";}
+      22%{ content:"Goddag";}
+      23%{ content:"Goedemiddag";}
+      24%{ content:"Tere";}
+      25%{ content:"Kamusta";}
+      26%{ content:"Hyvää päivää";}
+      27%{ content:"Bonjour";}
+      28%{ content:"Ola";}
+      29%{ content:"გამარჯობა";}
+      30%{ content:"Guten Tag";}
+      31%{ content:"Γεια σας";}
+      32%{ content:"નમસ્તે";}
+      33%{ content:"Bonjou";}
+      34%{ content:"Sannu";}
+      35%{ content:"שלום";}
+      36%{ content:"नमस्ते";}
+      37%{ content:"Jó napot";}
+      38%{ content:"Góðan dag";}
+      39%{ content:"Ndewo";}
+      40%{ content:"Selamat siang";}
+      41%{ content:"Dia duit";}
+      42%{ content:"Buongiorno";}
+      43%{ content:"こんにちは";}
+      44%{ content:"ನಮಸ್ಕಾರ";}
+      45%{ content:"Сәлеметсіз бе";}
+      46%{ content:"សួស្តី";}
+      47%{ content:"안녕하세요";}
+      48%{ content:"Silav";}
+      49%{ content:"Ассаламу алейкум";}
+      50%{ content:"ສະບາຍດີ";}
+      51%{ content:"Salve";}
+      52%{ content:"Labdien";}
+      53%{ content:"Labas";}
+      54%{ content:"Moien";}
+      55%{ content:"Здраво";}
+      56%{ content:"Manao ahoana";}
+      57%{ content:"Selamat tengahari";}
+      58%{ content:"നമസ്കാരം";}
+      59%{ content:"Bongu";}
+      60%{ content:"Kia ora";}
+      61%{ content:"नमस्ते";}
+      62%{ content:"Сайн байна уу";}
+      63%{ content:"नमस्कार";}
+      64%{ content:"God dag";}
+      65%{ content:"ଶୁଣିବେ";}
+      66%{ content:"Dzień dobry";}
+      67%{ content:"Bom dia";}
+      68%{ content:"ਸਤ ਸ੍ਰੀ ਅਕਾਲ";}
+      69%{ content:"Bună ziua";}
+      70%{ content:"Здравствуйте";}
+      71%{ content:"Talofa";}
+      72%{ content:"Здраво";}
+      73%{ content:"Dumela";}
+      74%{ content:"Mhoro";}
+      75%{ content:"سلام";}
+      76%{ content:"ආයුබෝවන්";}
+      77%{ content:"Dobrý deň";}
+      78%{ content:"Dober dan";}
+      79%{ content:"Maalin wanaagsan";}
+      80%{ content:"Buenos días";}
+      81%{ content:"Wilujeng enjing";}
+      82%{ content:"God dag";}
+      83%{ content:"Салом";}
+      84%{ content:"வணக்கம்";}
+      85%{ content:"నమస్కారం";}
+      86%{ content:"สวัสดี";}
+      87%{ content:"Merhaba";}
+      88%{ content:"Добрий день";}
+      89%{ content:"Вітаю";}
+      90%{ content:"سلام";}
+      91%{ content:"Salom";}
+      92%{ content:"Xin chào";}
+      93%{ content:"Bore da";}
+      94%{ content:"Molo";}
+      95%{ content:"העלא";}
+      96%{ content:"Báwo ni";}
+      97%{ content:"Sawubona";}
+      98%{ content:"Hello";}
+      99%{ content:"Namaste";}
+      100%{ content:"Namaskar";}  
+          
+      }
