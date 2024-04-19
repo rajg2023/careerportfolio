@@ -1,0 +1,23 @@
+{
+  "name": "career-portfolio",
+  "version": "1.0.0",
+  "description": "career portfolio project .",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajg2023/careerportfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajg2023/careerportfolio/issues"
+  },
+  "homepage": "https://github.com/rajg2023/careerportfolio#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

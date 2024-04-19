@@ -5,6 +5,8 @@ body {
   font-size: 16px;
   font-weight: 300; }
 
+  
+
 .p1-gradient-bg, .thumb .overlay-bg {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
   background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
@@ -156,7 +158,8 @@ a {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.5); }
+    background: rgba(0, 0, 0, 0.5); 
+    z-index: -1; }
   .site-hero h1 {
     font-weight: 200;
     margin-bottom: 20px;
